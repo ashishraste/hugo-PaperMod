@@ -5,6 +5,11 @@
     justify-content: center;
     min-height: 320px;
     margin: var(--gap) 0 calc(var(--gap) * 2) 0;
+    align-items: center;
+}
+
+.first-entry img {
+    border-radius: 50%;
 }
 
 .first-entry .entry-header {
